@@ -2,9 +2,9 @@
 
 Name's Bruno, I'm an iOS software developer and this is my profile overview 
 
-I am a developer both at Apple Developer Academy PUCPR and at SnowmanLabs.
+I am a developer at both Apple Developer Academy PUCPR and SnowmanLabs.
 
-On the free time I also <git commit> iOT, automation, DataScience and many other algorithms.
+On the free time I also `git commit` iOT, automation, DataScience and many other algorithms.
 
 Thanks <a href="https://github.com/anuraghazra/github-readme-stats"> @anuraghazra </a> for the awesome open source readme cards
 
