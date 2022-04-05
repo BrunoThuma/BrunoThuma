@@ -1,8 +1,12 @@
 # Welcome!
 
-Name's Bruno, I'm a iOS software developer and this is my profile overview
+Name's Bruno, I'm an iOS software developer and this is my profile overview 
 
-Thanks for <a href="https://github.com/anuraghazra/github-readme-stats"> @anuraghazra </a> for the awesome open source readme cards
+I am a developer both at Apple Developer Academy PUCPR and at SnowmanLabs.
+
+On the free time I also <git commit> iOT, automation, DataScience and many other algorithms.
+
+Thanks <a href="https://github.com/anuraghazra/github-readme-stats"> @anuraghazra </a> for the awesome open source readme cards
 
 [id]: theme=blueberry
 
