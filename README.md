@@ -1,4 +1,4 @@
-# Sup!
+# Welcome!
 
 Name's Bruno, I'm a iOS software developer and this is my profile overview
 
