@@ -8,11 +8,10 @@ On the free time I also `git commit` iOT, automation, DataScience and many other
 
 Thanks <a href="https://github.com/anuraghazra/github-readme-stats"> @anuraghazra </a> for the awesome open source readme cards
 
-[id]: theme=blueberry
-
-[![Bruno Thuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunothuma&theme=blueberry&show_icons=true&count_private=true&border_color=474444&text_color=CE6B87&icon_color=559e90)](https://github.com/BrunoThuma?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunothuma&layout=compact&theme=blueberry&show_icons=true&count_private=true&border_color=474444&text_color559e90)](https://github.com/BrunoThuma?tab=repositories)
+<div style="vertical-align:center">
+  <img height=190em src="https://github-readme-stats.vercel.app/api?username=brunothuma&theme=blueberry&show_icons=true&count_private=true&border_color=474444&text_color=CE6B87&icon_color=559e90" />
+  <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunothuma&layout=compact&theme=blueberry&show_icons=true&count_private=true&border_color=474444&text_color559e90" />
+</div>
 
 <!---
 [![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunothuma&theme=monokai&show_icons=true&count_private=true&border_color=474444&title_color=CE6B87)](https://github.com/BrunoThuma?tab=repositories)
