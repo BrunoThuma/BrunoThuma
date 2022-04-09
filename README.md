@@ -2,7 +2,7 @@
 
 Name's Bruno, I'm an iOS software developer and this is my profile overview 
 
-I am a developer at both Apple Developer Academy PUCPR and SnowmanLabs.
+I work at SnowmanLabs as a junior developer and I am a scholarship student at Apple Developer Academy PUCPR.
 
 On the free time I also `git commit` iOT, automation, DataScience and many other algorithms.
 
