@@ -6,6 +6,8 @@ I work at SnowmanLabs as a junior developer and I am a scholarship student at Ap
 
 On the free time I also `git commit` iOT, automation, DataScience and many other algorithms.
 
+ Apple's WWDC22 Swift Student Challenge Winner 
+
 Thanks <a href="https://github.com/anuraghazra/github-readme-stats"> @anuraghazra </a> for the awesome open source readme cards
 
 <div style="vertical-align:center">
